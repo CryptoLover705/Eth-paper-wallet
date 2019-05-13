@@ -5,7 +5,7 @@ Steps:
 2. Npm install
 3. Npm start
 4. You will be prompted with password input
-5. Save memonic on piece of paper
+5. Save memonic and private key on piece of paper
 
 # This Output is just an example, 
 ## PLEASE DO NOT USE THIS EXAMPLE:
