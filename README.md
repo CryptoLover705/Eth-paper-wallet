@@ -2,7 +2,7 @@
 [![Maintenance](https://img.shields.io/maintenance/yes/2019.svg)](https://github.com/CryptoLover705/Eth-paper-wallet)
 [![GitHub Release](https://img.shields.io/github/package-json/v/CryptoLover705/Eth-paper-wallet.svg)](https://github.com/CryptoLover705/Eth-paper-wallet)
 [![GitHub last commit](https://img.shields.io/github/last-commit/CryptoLover705/Eth-paper-wallet.svg)](https://github.com/CryptoLover705/Eth-paper-wallet)
-[![Downloads](https://img.shields.io/github/downloads/CryptoLover705/Eth-paper-wallet/total.svg)](https://github.com/CryptoLover705/Eth-paper-wallet)
+
 
 # Ethereum Paper wallet generator
 
